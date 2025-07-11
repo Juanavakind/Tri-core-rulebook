@@ -738,3 +738,21 @@ Using the Travel III Keyword, a Character can choose to change the location of a
 Transporting Characters and Objects of varying Size Ranks depends entirely on the amount of Squares they Occupy, and just as it is depicted in the Size Rank Page, Four Tiny, 2 Small, or 1 Medium Character or Object can be Transported at one time for 12 ACP. Beyond that point, ACP cost is increased by 4 ACP per Square per Character or Object they occupy. As an example, with 24 ACP invested in Travel II (2 Characters), 24 ACP invested for Size Rank, and 12 ACP invested in Range (60 ACP). That Character could transport up to two Large Characters, 4 Long Characters, 8 Medium Characters, 16 Small Characters or 32 Tiny Characters up to 20 ft. 
 
 Transporting Characters and Objects through the Travel Keyword does not require it be depicted through portals and holes in space. How it appears, is just important on how its described and how it functions within the rules of the game. Transporting a target, such as an unwilling Character or an held Object results in a Power Resolve versus Legerity.
+
+Created Abilities will be in this format when displayed.
+Name: 'Almost as important as what it does, it's how a Character declares what Ability they are using.
+ACP: How much ACP is spent (invested) and what the maximum ACP available
+Costs: Stamina, Focus, and or Mana cost, increased or decreased by half slot, single slot, or double slot
+Core: Body, Mind, or Spirit
+Drawback: How much Drawback this Ability has (up to half the maximum)
+Slot: Half, Single, or Double
+Type: 'Active, Trigger, or Passive; plus the Core Action required to use the ability.
+Aspect: 'Damage, Heal, Shield, Boost or Hinderance; determines how it affects the Target. Plus sub-type
+Device: 'Required availability and functionality in order for the Ability to be used.
+Range: 'Determines what targets are eligible as long as they are within range of the user.
+Target: 'Natural, Self, or Single Target determines what other Characters can be chosen.
+Effect Value: 'Determines the result of the Ability based on what Keywords the Character chose.
+Keyword: 'The Keywords create a structure for the Ability and provides limitations based on ACP Investment.
+Description: 'Important for the Characters theme and concept as the design is governed by it.
+
+It's really important that the structure of Abilities follow the format above. So the Ability can easily be understood.

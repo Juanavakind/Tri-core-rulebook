@@ -66,9 +66,12 @@ React is an Action that allows any character to perform an Action in reaction to
 A Character receives 1 Reaction plus an additional 1 Reaction per two points in Acuity.
 
 The order of rotation is determined by highest to lowest in totals for rolled React. When a character has Priority, they can choose to perform one Action without expending an additional Action Point to do so. Any other character capable, may choose to React and perform an Action if they choose to. Any character, if capable, can perform a string of actions depending on the type of action and the costs. Being knowingly targeted by the Character with Priority, grants you a free Action as a reaction. A character may only React and affect another character that's within range of an Item, Equipment, Object, Ability or Action they have. 
+
 As an example, Character A has priority and chooses to perform a Strike Action and Character B has been targeted by Character A. Character B is not required to spend an additional Action Point but is allowed one Action in reaction to Character A's Strike. Though Character B is not aware what action Character A will be taking. Character C is an ally of Character B and chooses to assist Character B by spending an additional Action Point to act out of rotation in defense of Character B.
+
 Physical Guard (PR), Mental Fortitude (MF), and Energy Resistance (ER) reduce incoming damage and effects that align with the type of Effect Value (Physical, Mental, or Energy). PR, MF, and ER can be increased by Abilities, Armor, and Items.
 Resolve is a reaction to effects that affect a Character in a variety but specific ways, and can be resisted through rolling a 2d12 plus a Core-stat and is determined by each individual effect. These effects can be produced by the environment or by another Character. (Resolve does not cost Action Points)
+
 POWER: Effects that force a Character to move
 VITALITY: Effects that modify Resources (HP, SP, FP, and MP)
 ENDURANCE: Effects that modify Action Points
@@ -78,10 +81,14 @@ FINESSE: Area of effects that require a Character's avoidance
 ARDOR: Effects that modify a Characters Speed Rank
 MORALE: Effects that modify Effect Values
 ATTUNEMENT: Effects that modify a Characters sense & senses
+
 The Challenge Level (CL) of a Resolve is determined by the total Core-stat plus 4 plus Character Level or Challenge Level, depending on the source of the effect. As an example, a level One Character with 10 in Body will have a CL of 14 and would require the Resolving character to roll at minimum 14 in order to resist the effect.
+
 When a Character Succeeds or fails on a Resolve, the Effect is increased or reduced based on that success or failure. A critical success is determined if the characters resolve exceeds the CL by 20 or more. A success must be equal or greater, and no more than 1 to 19 points higher in total than the CL. A failure is 1 less or more, between 1 to 19 less than the CL and a Critical Failure is 20 points or lower than the CL.
+
 CRITICAL SUCCESS: Effect reduced by 100%
 SUCCESS: Effect reduced by 50%
 FAILURE: Full effect
 CRITICAL FAILURE: Effect increased by 100%
+
 Damage mitigation applies when a character receives damage that targets Health Points or Action Points and only applies once damage is taken. Any Actions or Abilities that reduce damage taken such as Block and Dodge will reduce the incoming damage first and whatever is left over is reduced by Armor (Physical, Mental, and Energy). Damage received can be reduced to Zero and damage will affect Shielding and Temporary HP first before Health Points. Threshold is base total Health Points only and does not include Shielding or a temporary increase to Health Points.

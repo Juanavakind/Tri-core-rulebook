@@ -1,3 +1,4 @@
+Section A
 Tri-Core is a tabletop roleplaying game that focuses on the creation and customization of unique characters, and storylines. Players will utilize the Tri-Core Ability Creation System to mold and craft all of their abilities and features that define their characters. As well as an intuitive resource system that will allow for an Action Economy that rewards both reckless and careful characters alike. The Tri-Core Combat System will enable players to also compete against one another through fair and balanced gameplay while simultaneously adding the much desired, element of surprise.
 
 However, Tri-Core’s greatest feature is the Action Card System, in which Players will transcribe the abilities they create onto blank Action Cards and among those cards are Strike, Volley, Grab, Collide, Block, Dodge, and Parry. In addition players will have access to Utility Cards that provide actions to support their characters and the abilities they have. Each player, during a cycle, will place their set of Cards face down and reveal them on the same cycle. Allowing this gives the players a chance to access and utilize the element of surprise, even versus the GM(Gamemaster).
@@ -5,7 +6,8 @@ However, Tri-Core’s greatest feature is the Action Card System, in which Playe
 Players will pay for these Actions Cards with Action Points, Stamina, Focus, Mana and even Health Points (If necessary) to complete their actions and hope for success. Tri-Core can also allow for the transfer of abilities, features and spells from any source material using the Ability Creation System. However, the level in which these abilities may be acquired will not always be in alignment and Tri-Core does not deal in Absolutes. With that said, let it be known that in Tri-Core, everything has an equal chance to fail just as much as it can succeed. So thank you for choosing to play Tri-Core, and once more…
 
 Thank you for choosing to play Tri-Core!
- 
+
+Section B
 The Nine Core-stats for Tri-Core is Body, Mind, and Spirit. Body is split into Power, Vitality, Endurance. Mind is split into Intelligence, Acuity, and Finesse. Spirit is split into Ardor, Morale, and Attunement. Between Body, Mind, and Spirit these Core Stats are the base structure for all Character that determine the effectiveness of all Actions, Abilities and Equipment used in both Combat and Non-Combat situations. Which leads to rolling core stats, that’s where Character Creation will start.
  
 Power is the first Primary Stat listed amongst the nine Primary Stats available for a character. Power is apart of the Body Core Stat along Vitality and Endurance and affects total Stamina Points, Unarmed Combat Bonus, Melee Offense Bonus, Reaction, Strike Action, Athletics Action, Hoist Action, Strength, and Agility.
@@ -46,7 +48,8 @@ Heroic: A person who is admired or idealized for courage, outstanding achievemen
 Legendary: A very well known and or extremely famous or notorious person, especially in a particular field. A living legend. – 9d10 and three plus four bonuses
  
 Mythic: A person or thing having a perceived imaginary or unverifiable existence, that embodies an ideal or faith. – 9d12 and three plus five bonuses
- 
+
+Section C
 Health Points or HP is what determines how much damage a character can take before they fall unconscious or even die. A characters total HP is an accumulation between Vitality, Endurance, Finesse, Ardor and Morale. Plus they gain 15 HP per level starting at level 1, and if they choose they may increase it through Abilities and Items. A character may suffer two effects if they receive too much damage in one instance. This is called a Threshold which is equal to 50% of their total Health Points. If they do, they must roll Resolve and the result must equal or greater to the total damage received. The type of Resolve rolled depends on the type of damage received. If they fail, then they suffer the effect, Shock. When in Shock, a character will lose their total Action Points regardless of how many Action Points they currently have.
  
 Action Points or AP determines how many actions a character may take during combat, encounters or challenges. Each character has a base of 6 Action points plus the sum of Vitality, Intelligence, and Ardor. Any character may use Action Points beyond zero and dip into negative Action Points. However, they may suffer effects as they head to fatigue, exhaustion, and unconsciousness. For each point in negative Action Points, the character reduces their total AP once they use the Recover Action. If a character ever reaches their Total AP in negative AP, they immediately and unavoidably fall unconscious for 1d12 cycles minimum 1 cycle (duration reduced by Vitality). An Alternate Rule (GM’s choice) can allow characters to perform and complete Actions even when they are out of Resources such as Stamina, Focus or Mana. If they do, they will take backlash damage to their HP equal to 2d12 per Resource point used. (Backlash bypasses damage reduction)
@@ -92,7 +95,8 @@ FAILURE: Full effect
 CRITICAL FAILURE: Effect increased by 100%
  
 Damage mitigation applies when a character receives damage that targets Health Points or Action Points and only applies once damage is taken. Any Actions or Abilities that reduce damage taken such as Block and Dodge will reduce the incoming damage first and whatever is left over is reduced by Armor (Physical, Mental, and Energy). Damage received can be reduced to Zero and damage will affect Shielding and Temporary HP first before Health Points. Threshold is base total Health Points only and does not include Shielding or a temporary increase to Health Points.
- 
+
+Section D
 UTILITY, STRIDE, & AGILITY
 Recover is an Utility Action all characters have access to. Recover cannot be used as a Reaction, and can only be used on when a Character has priority. Recovery can be interrupted by a Reaction, and Recovery restores one selected Resource of the Players choosing. The resource is restored by a base of 1d6 plus 1d6 per two points in Vitality plus Ardor.
  
@@ -184,7 +188,8 @@ When declaring Active Actions, a Sub-Action can be added to modify the Action th
  
 PHASE 3: REACTION
 Once the Player with Priority (It’s there turn in the rotation) has decided on which Actions they’d like to use, they may place their Action Cards on the table face down. They keep their Actions a secret to other players, and Actions and Abilities from opposing players may force them to reveal their actions. Otherwise, the Action Cards remain face-down. With or without revealing the Actions Cards placed face down by the Player with Priority, other Players may choose to place their Action Cards face down as well. Regardless of what their Actions and Abilities do, or who or what they target, all Players reveal their cards simultaneously. From this point, the 1st thing all Players involved must do is roll their React and a secondary Rotation is started. This rotation is tied to the Actions they are affecting. So, if the Character with Priority, namely Character A, has an Offense Action they are performing, such as a Volley Action. Then any Characters looking to React to that Volley Action would use their Reaction roll to determine who can react first to that Volley. So, let’s say Character A is targeting Character C, and Character B would like to defend Character C from Character A’s Volley. Character B, having rolled higher on React than Character C, can choose to step in the way and Block Character A’s Volley.
- 
+
+Section E
 NEGATIVE HEALTH POINTS
 If a Character suffers enough damage to go beyond zero Health Points, they are considered Wounded. Every source of damage received beyond zero Health Points worsens the Wounded Condition by one step. The required amount of damage received to worsen a Wounded Condition equal to that Characters Vitality. Each step in a Characters Wounded Condition weakens and enfeebles the Character significantly. A Character, despite reaching zero Health Points or less, may continue to remain conscious with a successful Resolve equal to the amount of damage they received (Most recent).
 
@@ -251,6 +256,7 @@ Exhaustion: AN EXHAUSTED CHARACTER INCREASE AP COST WITH ACTIONS BY FOUR POINTS
 
 In Tri-Core, rolled dice "explode" when the maximum number is rolled and a bonus roll is granted using the die rolled previously. As an example, if 10d6 is rolled, and 6, 6, 6, 6, 5, 5, 3, 3, 2 and 2 is rolled. Then 4d6 bonus rolls are granted, and if 6, 6, 5, and 2 is rolled then 2d6 bonus rolls are granted. And so on... Exploding dice is to add a sense of luck, and fate for just not Accuracy but dealing damage.
 
+Section F
 PHYSICAL SKILLS
 All Characters have access to 5 different skills in the each category. Skills are independent actions that are required under specific circumstances in order to complete an objective set by the GM. All Skills, regardless of their category, combine two different stats for the bonus to rolls. As such, Skills receive a bonus equal to 2d12 plus Stat A + Stat B.  Each Rank in a skill adds a 1d12 bonus to skills when used and a Character receives Skill Ranks equal to their Intellect every 5 Levels. (1st level, 5th level, 10th level, 15th level, and 20th level)
 
@@ -381,6 +387,7 @@ When preventing damage through Shields as provided by Actions, Abilities and Equ
 
 Damage, healing, and shielding can also be accomplished through equipment (items, tools, consumables and so on…) using the Utility Action that allows interaction with equipment in a Characters possession. Such as a shield projector a Character has to place into the ground, or a potion they have to imbibe to receives its rejuvenating effects. Items with a consumable effect have a quantity that applies to their number of uses, such as ammunition.
 
+Section G
 ABILITY CREATION & ABILITY SLOTS
 The Ability Creation System is the base for all Characters that are created through and exist in the Tri-Core System. Every Ability is created and modified through the Ability Creation System using Ability Creation Points (ACP) and Keywords. Each Keyword is unique with its own independent cost and each Character can have different types of Abilities. An Ability can be a Body, Mind or Spirit Ability. Which changes what resource using the Ability will cost. Stamina for Body, Focus for Mind, and Mana for Spirit. Each Ability requires an Ability Slot and each Ability will cost 1 Resource per Ability Slot used, up to two. 
 

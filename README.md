@@ -609,3 +609,132 @@ Manipulate the senses of another Target Character by deceiving their surrounding
 When thinking in terms of a Character being in "harms way", it's best considered any instance that would lead to a loss of Resources such as Health Points, Action Point, Stamina, Focus, and Mana. The loss of resources does not need to be dealt in order to qualify an instances as harmful. The Resolves the Character is allowed is before any harm would come to them, if they fail the resolve then they fail to avoid the loss to their resources. This is not an subjective rule, if an Action they are told to do would result in a loss of resources, they are allowed a Resolve.
 
 When a Player can use a created Ability that revolves around Cognition V can be a little tricky and hard to understand. If you use it as an Active Action, then you are no longer left with an Active Action in your Cycle and left with only a Reaction. If Cognition V is used as a Triggering Ability, then a Player could use Cognition V as a Reaction and then respond with an Active Action such as Strike, Volley, Grab, Collide, Block, Dodge or Parry. 
+
+CREATION: The Creation Keyword allows a Character to conjure, produce and create a large variety of raw or refined materials, objects, items and equipment. From Iron Ore to quasi-corporeal weaponry, the Creation Keyword is a very open ended and creative Keyword that should be thoroughly discussed when used in an Action or Ability. Anything created, conjured or provided by the Creation Keyword is not permanent, but at minimum will last exactly 1 Cycle, unless paired with the Duration Keyword. The cost of ACP may be doubled to produce permanent materials, objects, items and equipment. Drawback option: Creation keyword that only affect specific material types grants an ACP refund of 10 ACP.
+
+CREATION I: CONJURE OR PRODUCE RAW MATERIALS IN VARYING QUANTITIES
+Produce 4lbs of Raw Materials per 1 ACP Spent (2 ACP for permanent materials). Raw Materials could include materials such as dirt, branches, sand, and mineral ore. Discuss with your GM about what kind of materials to produce and what you are trying to convey by using this Keyword. (Not required to be solid or physical)
+
+CREATION II: CONJURE OR PRODUCE REFINED MATERIALS IN VARYING QUANTITIES
+Produce 2lb of Refined Materials per 1 ACP Spent (4 ACP for  permanent materials). Refined Materials could include materials such as wooden planks, metal ingots, and glass. Discuss with your GM about what kind of materials to produce and what you are trying to convey by using this Keyword.
+
+CREATION III: CONJURE OR PRODUCE A DEVICE VARYING IN TYPES AND QUANTITY
+Produce a temporary device worth an 3 ECP per 1 ACP invested in Creation III. Producing a temporary or permanent device is worth the equivalent ECP, and temporary devices require at least 1 cycle in order to be used and any device created is not automatically equipped, or stowed. But upon creation, a Character must have an available action to either Equip, or stow the device or it will automatically drop to the ground in front of them. Any device produced is of common rarity and requires Creation IV in order to produce devices beyond common.
+
+CREATION IV: INCREASE THE RARITY RANK OF A DEVICE BASED CURRENT QUALITY (CREATION IV IS ALWAYS PASSIVE)
+Increase the Rarity Rank of an existing Device (Temporary or Permanent) by 1 per 20 ACP Spent. Increasing the Rarity of a Device increases the overall effectiveness by increasing relevant stats. Each Rank of Rarity increases available ECP by 10 up to 50. Common (10), Uncommon (20), Rare (30), Epic (40), and Legendary (50). Each Rarity Rank bonus to ECP is multiplied by Item Level. The Item Level of an Item or Equipment is equal to the Character that Crafted it. Increasing Rarity requires 3 days of crafting per rank of Rarity per Item Level. As an example, upgrading a level 6 common item to a Level 6 epic Item would require 18 Days of work. Additional ACP cost of 5 per Device Type. Amount of work required = 3 days x Rarity x item level
+
+COMMON: 60 ECP PLUS 20 ECP PER ITEM LEVEL
+UNCOMMON: 60 ECP PLUS 40 ECP PER ITEM LEVEL
+RARE: 60 ECP PLUS 60 ECP PER ITEM LEVEL
+EPIC: 60 ECP PLUS 80 ECP PER ITEM LEVEL
+LEGENDARY: 60 ECP PLUS 100 ECP PER ITEM LEVEL
+
+EMPOWER & PRECISION: When it comes to increasing the potency of an Action, nothing is more important than the Effect Value of an Action or Ability. Even if it’s a Precise Action or Ability, if the Effect Value is negligible, then the precision will feel meaningless (Vice versa). As Such, the Empower Keyword focuses on increasing the Effect Value of an Action or Ability in a variety of ways.
+
+EMPOWER I: Increase or Decrease the number of Dice with an Action (Active or Trigger only). 3 ACP PER SIDE
+EMPOWER II: Increase or Decrease the bonus of an Action by one point. 5 ACP PER POINT
+EMPOWER III: Increase the result by one per Die rolled with an Action. 10 ACP PER POINT
+EMPOWER IV: Increase the Effect Value of an Effect, Action or Ability equal to any Sub-Stat. 20 ACP PER STAT
+
+Costs 20 ACP per Stat added up to One additional Sub-Stat. Including the PWR, FNE or ADR. As an example, you could add PWR & VIT to a Melee Strike Action which normally adds PWR as a Bonus. Similar to Empower III, Empower IV could allow a Flat Value equal both Sub-Stats for a very potent Ability or Action. Cannot choose a Sub-Stat that already applies.
+
+PRECISION I: Increase or Decrease Accuracy Die for an Action or Ability. 3 ACP PER SIDE
+PRECISION II: Increase or Decrease the bonus to Accuracy by 1. 5 ACP PER SIDE
+PRECISION III: Choose a Die and roll it an additional time and choose which die to keep. 10 ACP PER SIDE
+
+Actions and Abilities can be used to damage Action Points instead of Health Points as to take down a target by rendering them unconscious. If chosen to allow the Action or Ability to damage Action Points, the cost is increased by 2 per side of the die. Additionally, Unarmed Combat can also be used to target Action Points or Health Points with non-lethal damage which cannot take a Character beyond 0 Health Points, but its can reduce Action Points into the negatives. Additionally, if dealt after a Character is already at 0 Health Points, the non-lethal damage will convert into Lethal damage regardless of the intent of the attacker.
+
+Each additional Die added beyond the 1st costs an additional 1 ACP per side of the die. As an example, to add 1d10 would initially costs 30 ACP, and the second d10 would costs 40 ACP and 40 ACP for each d10 added to the total number of die available for that Action or Ability. This increase applies to Items and Equipment as well.
+
+DURATION: The Duration Keyword is a representation of time and deals directly with Cycles, and Action Points. As two Action Points is the equivalent of 1 second of time. Cycles themselves do not have a definitive number of seconds that they represent. But the amount of AP spent in a Cycle can equate to the amount of time that Character has spent in their Cycle.  
+
+While not all Abilities will have a Duration, any temporary Boosts or Hinderances will automatically have a Duration of 1 Cycle at minimum, and many Abilities that have an effect that changes a stat will benefit greatly from an extended Duration. However, the Duration Keyword doesn’t only apply to how long an Ability is an effect, but also affects Over-Time Abilities such as Bleeds or Poisons.
+
+DURATION I: INCREASE THE DURATION OF AN ABILITY BY ONE CYCLE, COST 2 ACP PER CYCLE
+DURATION II: RESOLVE AN ACTION OR ABILITY AT MAXIMUM EFFECT VALUE, COST 4 ACP PER CYCLE
+Resolve an Effect Value (Damage, Heal, or Shield) by maximizing and dividing the Total over the number of Cycles added to the Action or Ability (Minimum 3 Cycles). As an example, if Character A used a Poisoned Blade to Strike Character B, and if Character B fails their Vitality Resolve, then Character A will deal 3d6+9(27 Damage) over 3 Cycles. Meaning Character B will suffer 9 damage per Cycle for 3 Cycles. Each time Character A successfully poisons Character B, 27 Damage will be added to the remaining Duration. If Character A successfully poisons Character B, then that 9 damage turns into 18, 27, 36 and so on. This keyword has an initial cost of 12 ACP.
+
+DURATION III: RESTORE HEALTH POINTS BY ONE POINT PER CYCLE, COSTS 8 ACP PER CYCLE
+DURATION IV: RESTORE ACTION POINTS BY ONE POINT PER CYCLE, COSTS 10 ACP PER CYCLE
+DURATION V: RESTORE STAMINA, FOCUS AND OR MANA BY ONE POINT PER CYCLE, COSTS 12 ACP PER CYCLE
+
+Duration III, Duration IV, and Duration V are Keywords that provide regenerative properties to a Character. They occur whether a Character is conscious or unconscious, but the Character must be alive for the Ability to take effect. However, like any Keyword available, Duration can have a hindering effect. Meaning that these Keywords can be used with Abilities to create a degenerative effect on a target, reducing that resource by a certain amount per cycle.
+
+As an example, if Character A invested 72 ACP into Duration III to create an Ability that reduces HP by 10 per Cycle for 6 cycles, then if Character B were affected they would lose 10 HP per cycle for a total of 60 HP. Since the original wording is Restore, then losing HP would not affect their maximum HP but instead destroys it as if taking damage. 
+
+Duration is closely tied to Cycles, and the start of a Players turn with their Character(s) begins with the start of a Cycle. Any Ability which is a persistent effect such as Afflictions all have a minimum of 1 Cycle to their effect and Boosts and Hinderances start with 1 Cycle for the Duration for free. Their duration must be increased using the Keyword Duration I in order for these effects to last longer.
+
+KINESIS: The Kinesis Keyword is primarily used by Characters who wish to push, pull, lift or otherwise move Characters, and Objects they can perceive through their available senses. Kinesis can also be used to manipulate energy and the Characters surrounding environment. Kinesis can be described in different forms such as Telekinesis, Psychokinesis, Pyrokinesis and so on. It is entirely dependent on the concept, flavor and design of your Character that will determine how Kinesis is used. Kinesis is also dependent on other Keywords to function, Keywords such as Range and Duration.
+
+Characters are not required to consume Energy Substances when using Kinesis II. If Character A has invested 60 ACP into Kinesis II, then the maximum amount of 1d10 he can add to the Action is 6d10 but requires 6 occupied squares of the relevant Energy Substance. Kinesis I may have a similar effect, but the Effect Value is determined by weight and momentum, which is 1d10 per 100 lbs. So, if Character A is near a source of Water, and wishes to drop 600 lbs. worth of water on a Target, they will need at least 6 squares occupied by water to complete the desired Action. 
+
+KINESIS I: MANIPULATE (PUSH, PULL, & LIFT) 6 LBS. PER 1 POINT OF ACP INVESTED
+Kinesis I allows a Character to push, pull, lift and fully manipulator the direction of any eligible target such as another Character, Object or Structure. Similar to Strength, Kinesis I has a limit on how much weight can be manipulated based on the investment in Kinesis I. Without accompanying keywords such as Range, and Duration, Kinesis would be limited to a close range action requiring the Character to touch it's target. Additionally, the distance a Target is manipulated and its total weight can determine its Speed Rank and damage done if collided with another Character, Structure or Object. Every four squares traveled adds 1d12 impact damage and 1d12 impact damage for every 100 lbs. the target weighs. The ACP cost for the Range Keywords is doubled for both number of targets and Shape. Limiting what Kinesis can target to what type increases available ACP for the Ability Slots by 50%. (Such as targetting only Metal or Water)
+
+When used against the will of other Characters, to resist the effects of Kinesis I the Opposing Character must roll Power Resolve vs. Legerity or be manipulated as you choose for one Action. If the Character B fails their Resolve versus the Kinesis Action, then Character A may push, pull, and or lift Character B up to the maximum range they invested in their Ability. Characters, Objects and Environments automatically succeed their Resolve if their weight exceeds the ACP investment into Kinesis. Much like Kinesis I, Kinesis II allows a Character to freely manipulate weightless Energy Substances such as Light, fire, Wind and perhaps more metaphysical concepts such as Gravity or Magnetism. Kinesis II functions through occupied Squares and level of presence.
+
+KINESIS II:MANIPULATE SOURCES OF ENERGY WITHIN RANGE PER SQUARE
+Increase Effect Value  by 1d12 for every Squares occupied by relevant Energy Substances at the cost of 1 AP per 1d12 available. Chosen occupied squares are consumed once used and can only be used once per Action. Squares must be within Range and this Keyword is restricted by the Burst Shape for Range IV. Energy Substances that may be constantly present, such as Wind or Gravity, are consumed as well and do not return for until the start of this Characters next cycle. So, if Character A consumes the Air within a 5 Ft. Burst around them, no air will be available to breathe until the start of their next turn. ACP Cost reduced by 50% if only a certain source can be manipulated using Kinesis.
+
+RANGE: All Actions and Abilities rely on Range to sculpt how they behave during gameplay. Each Square is considered 5 ft. of range and anything within 5 ft. or less is considered Close-Quarters or Melee. Abilities and Actions can have a large variety of shapes when it comes to Area of Effects such as a Cone, Line, Cylinder, Burst, and Cube. These shapes are important to establish when creating Abilities, so the Players know who and what their Abilities affect when successful.
+
+Additionally, all Actions and Abilities that have an Area of Effect also have a Point of Origin, determined by the Player, when the Abilities are created. A Point of Oirigin determines where the Area of Effect starts and requires Range I if the Origin is seperate from the Character.
+
+RANGE I: INCREASE THE RANGE OF AN ACTION OR ABILITY BY 1 SQUARE, COST 1 ACP PER SQUARE
+RANGE II: A LINE OF EFFECT AFFECTS ALL TARGETS PER SQUARE ADDED TO RANGE, COST 2 ACP PER SQUARE
+RANGE III: A CONE WILL AFFECT ALL TARGETS WITHIN THE AREA (3 SQUARES), COST 2 ACP PER SQUARE
+A Cone will start out at 3 Squares (6 ACP) , increasing by 2 ACP per Square beyond the inital three Squares required to be considered a Cone. Every additional row of Squares each costs 2 ACP as normal. As an example, a row of 5 Squares would cost 10 ACP to add on to the existing three squares bringing the total Area of Effect for a Cone of that size to 16 ACP.
+
+RANGE IV: A CUBE AFFECTS ALL TARGETS WITHIN ITS AREA OF EFFECT, COST 2 ACP PER SQUARE
+A Cubic Area of Effect works a differently from a Line or a Cone as it can also affect all targets within in Area of Effect beyond a horizontal plane, but also includes targets beneath and above the Point of Origin. However, the biggest difference is how ACP cost is determined when choosing to use a Cubic Area of Effect.  A Cube starts off with 1 Square = 2 ACP (5 ft. Cube), to 8 Squares = 16 ACP (10 ft. Cube), 27 Squares = 54 ACP (15 ft. Cube) and 64 Squares = 128 ACP (20 ft. Cube). Cylinder, like a Cube, has its cost affected by Height but not width. And it’s cost will only be increased by each square in its height.
+
+RANGE V: A BURST AFFECTS ALL TARGETS WITHIN ITS AREA OF EFFECT, COST 2 ACP PER SQUARE
+A Burst will start out at 8 Squares (16 ACP), and it’s cost for the next Tier can be calculated by rows similar to a Cone. A Burst around a single square such as a Character or an Object will start off with 3 Rows of 3 Squares (9 Total). Adding both Rows and Columns will be dependent on the previous Tier. To count the Inner burst, you exclude the center leaving you with 8 Squares. [2] + 2 + 2 + 2 (8 Squares). Each tier adds to 2 plus the previous Tier then multiplying it by 4. So, the next tier would cost 32 ACP (4 x 4 = 16 Squares) and the Tier after that would cost 48 ACP (6 x 6 = 24 Squares).
+
+REINFORCE: The Reinforce Keyword allows a Character to add additional Sub-Stats to their Resources as well as their Strike Target. This can strengthen a Character and covers weaknesses they may have due to low Sub-stats in critical locations. As an example, HP starts with Five Sub-Stats and is allowed Two additional Stats to add to it (Seven Total).
+
+REINFORCE I: INCREASE HP BY THE VALUE OF ANOTHER SUB-STAT, COSTS 10 ACP PER STAT
+Reinforcing Health Points can be allowed with up to two additional Sub-Stats and 
+with Stats that are not already being used to increase Health Points.
+
+REINFORCE II: INCREASE AP BY THE VALUE OF ANOTHER SUB-STAT, COSTS 10 ACP PER STAT
+Reinforcing Action Points can be allowed with up to two additional Sub-Stats and 
+with Stats that are not already being used to increase Action Points.
+
+REINFORCE III: INCREASE SP, FP, OR MP BY HALF THE VALUE OF ANOTHER SUB-STAT, COSTS 10 ACP PER STAT
+Reinforcing Resource Points can up allowed with up to two additional Sub-Stats and 
+with Stats that are not already being used to increase Resource Points.
+
+REINFORCE IV: INCREASE REACT BY HALF THE VALUE OF ANOTHER SUB-STAT, COSTS 10 ACP PER STAT
+Reinforcing Reaction can be allowed with up to two additional Sub-Stats and 
+with Stats that are not already being used to increase Reaction.
+
+REINFORCE V: INCREASE PG, MF, OR ER BY HALF THE VALUE OF ANOTHER SUB-STAT, COSTS 10 ACP PER STAT
+Reinforcing Damage Reduction or Energy Resistance can be allowed with up to two additional Sub-Stats and with Stats that are not already being used to increase DR or ER.
+
+REINFORCE VI: INCREASE STRIKE TARGET BY HALF THE VALUE OF ANOTHER SUB-STAT, COSTS 10 ACP PER STAT
+Reinforcing Strike Target can be allowed with up to two additional Sub-Stats and with Stats that are not already being used to increase Strike Target.
+
+REINFORCE VII: INCREASE EFFECT VALUE BY HALF THE VALUE OF ANOTHER SUB-STAT, COSTS 10 ACP PER STAT
+Reinforcing Effect Value can be allowed with up to two additional Sub-Stats and with Stats that are not already being used to increase the Effect Value. Reinforcement can be applied to EV types.
+
+REINFORCE VIII: INCREASE EFFECT VALUE DIE BY A CHOSEN DEVICE (HELD & FUNCTIONING), COSTS 10 ACP PER STAT
+Reinforce an Active Action by applying a held or wielded device equal to the Effect Value of the device such as a Weapon, Shield or Tool. The Device must be functioning, and will apply the Effect Value you of the Device.
+
+TRAVEL: The Travel Keyword represents a Characters ability to move themselves, another character or object from one location to another. The Travel Keyword can be different from Stride and Speed Rank as the Travel Keyword can also be depicted as appearing and reappearing in an instant (Depending on how the abilities are constructed).
+
+The Travel keyword, like other keywords, is dependent on Keywords like Range, and Duration. As how these Characters or Objects travel, is how the ability is both constructed and described. Affecting Characters and Objects using the Travel Keyword, specifically for transporting, is dependent only on distance, quantity, and Size Rank. ACP Investment is required for Larger Characters and Objects as they occupy more than one Square at a time.
+
+TRAVEL I: GRANT ADDITIONAL SQUARES OF MOVEMENT, COSTS 3 ACP PER SQUARE
+At the cost of 4 ACP per Square, a Character can add One Square of movement to an Action or an Ability during any point allocated as they choose during the Action or Ability. The additional movement can be used before, after or split between. This additional movement does not require a Stride Action and does not increase Strike Target or Speed Rank.
+
+TRAVEL II: RELOCATE A CHARACTER FROM ONE LOCATION TO ANOTHER, COSTS 12 ACP PER SQUARE
+Using the Travel II Keyword, a Character can choose to change the location of a Character from one Square to a different Square. These Locations can be adjacent, but they cannot occupy the same Square. This Keyword does not inherently have a distance that these Characters can be moved, so it still requires ACP Investment in the Range Keyword. A Character moving from one Square to another does build momentum nor cause Collision unless the Character was already in motion such as a Stride Action, falling, or if they were being forcibly moved.
+
+TRAVEL III: RELOCATE AN OBJECT FROM ONE LOCATION TO ANOTHER, COSTS 6 ACP PER SQUARE
+Using the Travel III Keyword, a Character can choose to change the location of an Object from one Square to a different Square. These Locations can be adjacent, but they cannot occupy the same Square. This Keyword does not inherently have a distance that these Objects can be moved, so it still requires ACP Investment in the Range Keyword. An Object moving from one Square to another does build momentum nor cause Collision unless the Object was already in motion such as a Volley Action, or falling.
+
+Transporting Characters and Objects of varying Size Ranks depends entirely on the amount of Squares they Occupy, and just as it is depicted in the Size Rank Page, Four Tiny, 2 Small, or 1 Medium Character or Object can be Transported at one time for 12 ACP. Beyond that point, ACP cost is increased by 4 ACP per Square per Character or Object they occupy. As an example, with 24 ACP invested in Travel II (2 Characters), 24 ACP invested for Size Rank, and 12 ACP invested in Range (60 ACP). That Character could transport up to two Large Characters, 4 Long Characters, 8 Medium Characters, 16 Small Characters or 32 Tiny Characters up to 20 ft. 
+
+Transporting Characters and Objects through the Travel Keyword does not require it be depicted through portals and holes in space. How it appears, is just important on how its described and how it functions within the rules of the game. Transporting a target, such as an unwilling Character or an held Object results in a Power Resolve versus Legerity.

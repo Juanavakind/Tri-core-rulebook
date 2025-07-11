@@ -381,3 +381,231 @@ When preventing damage through Shields as provided by Actions, Abilities and Equ
 
 Damage, healing, and shielding can also be accomplished through equipment (items, tools, consumables and so on…) using the Utility Action that allows interaction with equipment in a Characters possession. Such as a shield projector a Character has to place into the ground, or a potion they have to imbibe to receives its rejuvenating effects. Items with a consumable effect have a quantity that applies to their number of uses, such as ammunition.
 
+ABILITY CREATION & ABILITY SLOTS
+The Ability Creation System is the base for all Characters that are created through and exist in the Tri-Core System. Every Ability is created and modified through the Ability Creation System using Ability Creation Points (ACP) and Keywords. Each Keyword is unique with its own independent cost and each Character can have different types of Abilities. An Ability can be a Body, Mind or Spirit Ability. Which changes what resource using the Ability will cost. Stamina for Body, Focus for Mind, and Mana for Spirit. Each Ability requires an Ability Slot and each Ability will cost 1 Resource per Ability Slot used, up to two. 
+
+Each Ability as it's created, starts with a Name, Root, Cost, Type, Spectrum, Aspect, Sub-Stat, Device, Range, Duration, Target, Effect Value, and a Description. Once all of these have been chosen and filled in, and the ACP Cost is paid then the Ability may be acquired by the Character that created it.
+
+NAME: Almost as important as what it does, it's how a Character declares what Ability they are using.
+COST: Body, Mind or Spirit determines the Cost and what Sub-Stat is available for use.
+TYPE: 'Active, Trigger, or Passive; determines when the Ability can be used.
+ASPECT: 'Damage, Heal, Shield, Boost or Hinderance; determines how it affects the Target.
+DEVICE: 'Required availability and functionality in order for the Ability to be used.
+RANGE: 'Determines what targets are eligible as long as they are within range of the user.
+TARGET: 'Natural, Self, or Single Target determines what other Characters can be chosen.
+EFFECT VALUE: 'Determines the result of the Ability based on what Keywords the Character chose.
+KEYWORDS: 'The Keywords create a structure for the Ability and provides limitations based on ACP Investment.
+DESCRIPTION: 'Important for the Characters theme and concept as the design is governed by it.
+
+All Characters are allowed a limited amount of Ability Slots to which they choose a Slot, create an Ability for that Slot. There are three types of Ability Slots a Character may acquire; An Active Ability, a Trigger Ability and a Passive Ability. A Character is granted 10 Ability Slots at 1st Level, 2 Ability Slots at 2nd Level, and 1 Ability slot per level there-after. At level 19 an additional 3 Ability slots are granted, and another 5 Ability slots at level 20. In total, a Character will have 36 Ability Slots available to them by level 20. Each Ability Slot is granted ACP equal to double the total in Body, Mind, or Spirit plus 10 per Character Level. Additionally, a Character may give up Equipment Slots and add another Ability Slot instead. 
+
+ACTIVE: 'Can be used in place of any Core Action available to Characters (Such as Strike or Dodge).
+TRIGGER: 'Can be used at any time, when the Triggering event occurs. Resource cost is doubled.
+PASSIVE: 'Does not cost Resource or Action Points and remains in effect at all times.
+
+Active, Trigger, and Passive Abilities are Ability Types that affect the cost of Keywords and determine what resources apply to those Abilities. Active Abilities have no increase or decrease to Keywords Costs, and cost Action Points based on Weight and Resource based on ABS. Trigger Abilities cost the same as Active Abilities and have no Action Point Cost, but increases Resource Point cost and Passive Abilities increase Keyword Cost by 100%, but costs zero Action Points, and zero Resources and have a permanent duration. Active Abilities, as the name implies, are actively used by Characters when taking Actions. Trigger Abilities can only be activated and used when the circumstance the player established occurs. Passive Abilities are always in effect. A Character cannot benefit from multiple Boosts of the same type, such as an increase to damage dealt, or an increase to Maximum HP. The most recently used Boost replaces the previous, regardless of its comparable potency.
+
+COST & KEYWORDS
+Each Character gets three different totals for their Ability Creation Points (ACP) equal to a starting Base Amount of 15 plus 5 per level and the total in each Core (Body, Mind, and Spirit). Allowing them to spend up the total in ACP on a Single Ability Slot and twice that amount on a Double Ability Slot. They can choose Keywords and spend ACP on them in any way that they choose. Enhancements to Core Stats does not contribute to total available ACP.
+ 
+However, there are limitations to what they Keywords can increase & decrease, and their effects may not stack, depending on how they affect the Characters. As an example, increasing the Damage dealt with a Strike Action can only be increased a limited amount of times. But cannot have its damage increased with multiple instances of Passive Abilities. It can only be increased Once per type of Ability Slot. Boost and Hinder, as they are referred to, is how Actions & Abilities are increased or decreased and can only be done so with Active Abilities, Triggering Abilities, Passive Abilities, and or Items & Equipment.
+
+As an example, let’s say Character A sees an opportunity to takedown an opponent with a finishing blow but wants to take no chances. Character A decides to use multiple resources in order to increase the damage dealt as much as possible. So, with a Strike Action, following a Parry, Character A boosts the Riposte with what Character A calls “Surge”. Character A has an Active, Trigger, and Passive version of Surge to maximize the potential for this attack. But Character A is Level One and has 30 ACP Available, and each one of these Abilities are Double Slots. Character A increases the damage of the Riposte with the Passive by 1d12+1 (70 ACP), the Triggering Surge is set to activate upon a successful Parry and thus increases the damage further by 3d12(60 ACP) and the Active Surge (Activated in a previous turn with a Duration of 3 cycles) increases the Damage of their next Strike Action by 3d12(60 ACP). Allowing Character A to increase the damage of their Unarmed Combat Bonus (Which is already 4d12) by 7d12 giving Character A an Attack that deals 11d12 points of damage with 6 Ability Slots invested at the cost of 4 Stamina and 4 Action Points. As its a Riposte following a Heavy Parry, that’s 11d12+2d12(Heavy)+3d12(INT) resulting in 16d12 as a massive Riposte which would be devastating to their target. Which places this finishing blow in the ball park of  (Zero to Thirty-two Impact Damage). Well worth the resources and Ability Slots invested.
+
+Now, while that seems like a lot (and it is), Character A invested a lot to accomplish such a heavy-handed hit. What happens to Character B when struck and what could they do to avoid being taken down so easily? Let’s presume Character B is a defensive Character. They may be able to avoid the Knockout Punch for much less investment. Perhaps Character B invested a Double Ability Slot to increase their Max HP by 5 and have a Triggering Ability that grants 10 temporary HP when taking damage. Then, just to ensure survival, Character B has an active Ability that provides Shielding equal to 10 for 3 cycles. So, for 2 Stamina, 2 Action Points and 4 Ability Slots, Character B can absorb up to 7 points of damage with a Block while having 25 more HP than Character A. Meaning, that 32 points of Damage Character A could do, still has to get through Character B’s HP & Armor. So, while maximizing the potential of an Attack can be very intimidating, there are many ways to mitigate and otherwise neutralize incoming attacks.
+
+There can be a lot to consider and a lot of conditional modifiers that can drastically change the outcome of a conflict between two opposing Characters. Such as the one described above. For example, perhaps Character A rolled very poorly on their Accuracy and missed the Parry all-together, despite having an advantage on Accuracy die. Or if Character B had already sustained a lot of damage, and was left with only 5 HP Left. Character needs only 5 damage to overcome Character B's defenses to potentially end the conflict all-together (80 Damage dealt). Additionally, if Character A's damage dealt had the Electricity Sub-Type, and Character B had instead used the Block Action with the Water Sub-Type, reducing incoming Fire Damage by 50% while simultaneously being able to absorb 75 incoming damage.
+
+THE FOLLOWING INFORMATION ARE ALL THE KEYWORD ENTRIES THAT ALLOW PLAYERS TO CREATE AND CRAFT ABILITIES AND EQUIPMENT
+ALL AFFLICTIONS EFFECTS ARE ACTIVATED WHEN DEALING DAMAGE WITH A SPECIFIC DAMAGE TYPE. ALL COSTS 20 ACP PER AFFLICTION
+AFFLICTION I: AFFLICT A TARGET WITH BURN WHEN DEALING FIRE DAMAGE
+Every 1 die rolled will build up 1 point of Fire Damage and be dealt at the start of the Characters next cycle. The Afflicted Character may roll Energy Resistance Resolve versus Legerity to reduce the Burning Affliction by Half the total amount rounded down. If the Burning Affliction is down to 1 damage, than only one resolve need be rolled. Resolve must be rolled until the Burning Affliction reaches 1 die and then zero. Every Cycle that Burning continues to Afflict a Character, the total amount of Burning dice grows by 1 point of damage. 
+
+AFFLICTION II: AFFLICT A TARGET WITH FREEZE WHEN DEALING WATER DAMAGE
+Every 2 Dice rolled reduces Speed Rank by 1. The Freezing Affliction can be resisted with an Energy Resistance Resolve versus Legerity which reduces the Affliction Speed Rank Penalty by Half (1 minimum) and can be negated with a successful resolve once the Speed Rank Penalty is at 1. Every cycle the Freeze Affliction is not reduced, the Speed Rank Penalty grows by 1. A Character is considered immobilized once they reach zero Speed Rank.
+
+AFFLICTION III: AFFLICT A TARGET WITH SOAK WHEN DEALING WATER DAMAGE
+Every 2 Dice rolled will increase Action Point costs by 1 while under the Soaked Affliction. The Soak Affliction can be resisted with a Physical Guard Resolve versus Legerity. The Soak Affliction’s severity is wornsened by environmental hazards such as any body of water large enough to completely envelope an Afflicted Character by one step per cycle they remain in it. Additionally, the Character is weighed down by 25 lbs. per step in the Affliction. Example: A Character at three steps would have a AP cost penalty of 3 and weigh an additional 75 lbs. 
+
+AFFLICTION IV: AFFLICT A TARGET WITH BLUSTER WHEN DEALING WIND DAMAGE
+Every 2 Dice rolled push, lifts and pulls all Characters afflicted 2 Squares. The Blustering Affliction can be resisted with a Physical Guard Resolve versus Legerity which reduces the forced movement by half (minimum 1). The Bluster Affliction is negated with a Resolve if the forced movement reduced to zero squares. If a Blustered Target collides with another Character, Object, or Structure then they take one additional point of Impact damage per square that they traveled.
+
+AFFLICTION V: AFFLICT A TARGET WITH CRUSH WHEN DEALING EARTH DAMAGE
+Every 4 Dice rolled will apply 1 additional die to be rolled and then deals damage to items and equipment the Character may be holding, wielding, and wearing. If the Character either has no items or equipment, or the they have been destroyed by Crushing Damage then the Character takes that damage instead. The Crush Affliction can be avoided by a Finesse Resolve, if Afflicted, then it becomes a Power Resolve to end the Affliction. Some Crush Afflictions are not persistent, and only applied the Instant the Damage is received and ends simultaneously.
+
+AFFLICTION VI: AFFLICT A TARGET WITH JOLT WHEN DEALING ELECTRICITY DAMAGE
+Every 2 Dice rolled will destroy 1 Action Point. The Jolt Affliction can be resisted with an Energy Resistance Resolve versus Legerity. A Jolt Affliction can be persistent so long as the Character continues contact with a source of Electricity. If a Character remains in contact with an Electrical Source, each increases the Affliction step by one, and if at full negative Action Points will remain in contact unless removed by another means. If no Action Points remain, the Afflicted Character instead takes damage to their Health Points equal to double the Action Points they would have lost.
+
+AFFLICTION VII: AFFLICT A TARGET WITH MELT WHEN DEALING ACID DAMAGE
+Every 2 Dice rolled will deal 1 additional point of damage versus the Durability of Items and Equipment. The Melt Affliction can be negated by a Physical Guard Resolve. The Melt Affliction reduces Armor and Shield of Creatures, Items, Equipment, Objects and Structures by 1 for every step of Melt applied. Each individual step that Melt Damage is successfully dealt, increases the penalty to Armor and Shield. Each Cycle that the Melt Affliction remains increases the penalty to Armor and Shield by 1. A successful Resolve reduces the penalty by half (rounded down), and negated if the penalty is at 1.
+
+AFFLICTION VIII: AFFLICT A TARGET WITH BLIND WHEN DEALING LIGHT DAMAGE
+When struck by Light Damage every 2 Dice rolled reduces total d12s rolled for their Actions by 1 die for 1 Cycle per die reduced from the Afflicted. The Blind Affliction is resisted by Mental Fortitude Resolve and reduces the cycles remaining by half (minimum 1). Once there are only 1 cycle remaining, a successful resolve negates the effect. 
+A Blind character (Natural or otherwise is immune to this effect).
+
+AFFLICTION IX: AFFLICT A TARGET WITH BEFOUL WHEN DEALING DARK DAMAGE
+Every 2 points of dark damage dealt will deal prevent one point of healing the Afflicted Character would receive for 1 Cycle plus 1 additional cycle per 4 die rolled. The Befoul Affliction can be resisted by Mental Fortitude Resolve and reduces the remaining cycles by 1, and negates the effect if one cycle remains.
+
+AFFLICTION X: AFFLICT A TARGET WITH SEVER WHEN DEALING SLICE DAMAGE
+Every 2 Dice rolled deals an additional point of slice damage per step for 1 cycle plus the number of successful hits with a Slicing Weapon and a Character capable of applying the Sever Affliction. Sever is resisted by Physical Guard Resolve. The Damage is dealt at the end of the cycle and persists if slice damage is dealt and as long as Sever is applied per cycle.
+
+AFFLICTION XI: AFFLICT A TARGET WITH IMPALE WHEN DEALING PENETRATE DAMAGE
+ Every 2 Dice rolled ignores up to 1 point of Physical Armor. This bypass is applied before the damage is dealt if the Offense Action or Riposte successfully hits the Target. Penetrate is resisted by a Physical Guard Resolve and negates the Physical Armor bypass.
+ 
+AFFLICTION XII: AFFLICT A TARGET WITH BASH WHEN DEALING IMPACT DAMAGE
+Every two successes rolled will reduce combat bonus by one for 1 Cycle per 2 Dice rolled. The Bash Affliction is resisted by Physical Guard Resolve and reduces the cycles remaining by half (minimum 1). Once there there is only 1 cycle remaining, a successful resolve negates the effect.
+
+AFFLICTION XIII: AFFLICT A TARGET WITH TOXIC WHEN DEALING POISON DAMAGE
+Every 2 Dice rolled will apply the Toxic Affliction for 1 Cycle and while a Character is Toxic, they will receive one point of Poison damage per 2 Action Points spent while Afflicted. These Action Points need not be spent all at once to receive damage, every instance a Character spends a total of 2 Action Points, they receive the damage instantly. The Toxic Affliction is resisted by Physical Guard Resolve and each step of Toxicity increases the number of cycles by 1. A successful resolve reduces remaining cycles by One: Half if remaining cycles are greater than 1.
+
+AFFLICTION XIV: AFFLICT A TARGET WITH SLOWED WHEN DEALING TEMPORAL DAMAGE
+When struck by Temporal damage, every 4 Dice rolled will decrease the targets maximum amount of Action Points by 1 while under the Slowed Affliction. This effect is countered and negated by Mental Fortitude Resolve and every step adds an additional penalty to their total Action Points. This Affliction will last for 1 Cycle per step and each step requires a successful Mental Fortitude resolve.
+
+AFFLICTION XV: AFFLICT A TARGET WITH PAIN WHEN DEALING PSYCHIC DAMAGE
+When struck by Psychic damage, every 4 Die rolled will decrease the targets Resolves by 1 while under the Pain Affliction. This effect is countered and negated by an Mental Fortitude Resolve. This Affliction will last for 1 Cycle per step and each time the target fails their resolve, the Affliction will last last an additional cycle.
+
+ELIGIBLE EFFECT VALUE TYPES
+FIRE (ENERGY): STRONG VERSUS WIND AND WEAKENED VERSUS WATER
+WIND (ENERGY): STRONG VERSUS EARTH AND WEAKENED VERSUS FIRE
+EARTH (PYSICAL): STRONG VERSUS ELECTRICITY AND WEAKENED VERSUS WIND
+ELECTRICITY (ENERGY): STRONG VERSUS WATER AND WEAKENED VERSUS EARTH
+WATER (PYSICAL): STRONG VERSUS FIRE AND WEAKENED VERSUS ELECTRICITY
+SLICE(PYSICAL): CAN ONLY BE APPLIED TO WEAPONS & EQUIPMENT WITH AN EDGE
+PENETRATE(PYSICAL): CAN ONLY BE APPLIED TO WEAPONS & EQUIPMENT WITH A POINT
+IMPACT(PYSICAL): CAN ONLY BE APPLIED TO BLUNT WEAPONS & EQUIPMENT
+TEMPORAL (MENTAL): TEMPORAL IS WEAKENED VERSUS TEMPORAL
+LIGHT (MENTAL): STRONG VERSUS DARK AND WEAKENED VERSUS LIGHT
+DARK (MENTAL): STRONG VERSUS LIGHT AND WEAKENED VERSUS DARK
+PSYCHIC (MENTAL): PSYCHIC HAS NO STRENGTH OR WEAKNESS
+POISON (PHYSICAL OR ENERGY): POISON HAS NO STRENGTH OR WEAKNESS
+ACID (PHYSICAL OR ENERGY): ACID IS STRONG VERSUS ACID
+
+ANATOMY: THE KEYWORD ENTRIES DESCRIBED BELOW ALLOW CHANGE AND MODIFICATION TO CHARACTERS AND THEIR FORM, EACH CHANGE OR MODIFICATION COSTS A VARYING AMOUNT OF ACP DEPENDING ON THE KEYWORD ENTRY.
+The appearance of a Character is largely determined by Anatomical features that they possess. The Race of each Character is decided by the players as they initially begin to create their Character and any Racial Features that they’d like must be acquired through Abilities using the Anatomy Keyword. Races you find throughout Mythology and created works such as Orcs, and Elves have expected features like green skin and pointed ears. A Strong or Nimble race can be conveyed by increasing Power or Finesse through Passive Boosts. Green Skin or Pointed Ears are cosmetic features that do not require ACP to acquire.
+
+ANATOMY I: INCREASE OR DECREASE WEIGHT OF A VALID TARGET
+ Increase or decrease the amount of senses a Character possesses beyond Sight, Smell, Hearing, Taste and Touch by 1 per 6 ACP spent. These additional senses could include such things as Thermal Vision, Scent, Blind-Sense, Electroreception, and Night Vision. Discuss your ideas with your GM about what kind of senses are possible for your character.
+ 
+ANATOMY II: INCREASE THE MODES OF MOVEMENT FOR A CHARACTER BY ONE
+Increase or Decrease the modes of movement your Character could possess by 1 per 6 ACP spent. Normal Modes of movement are the ability to Walk, Run, Jump, Climb and Swim. Perhaps you’d like your Character to have the Ability to Fly, Hover, Glide, or Burrow. Discuss your ideas with your GM about what kind of modes of movement are possible for your character.
+ANATOMY III: MODIFY THE NUMBER OF LIMBS AVAILABLE TO A CHARACTER
+Increase or decrease the number of Limbs your Characters possesses by 1 per 6 ACP spent. The normal amount of Limbs for a humanoid is two arms and two legs for a bipedal creature. However, this Keyword is intended for limbs beyond four, so if your Character is quadrupedal then no ACP need be spent as four limbs is within the limit. Limbs may include additional Arm(s), Leg(s), Wing(s), and Tail(s). Discuss your ideas with your GM about what kind of additional limbs are possible for your character.
+
+ANATOMY IV: MODIFY THE VULNERABILITIES AND  RESISTANCES OF A CHARACTER 
+Increase or decrease natural Resistance your Character may have to Physical or Elemental harm by 15 ACP per 50% Resistance up to 100% (Immunity). Elements your Character may be immune to can be Fire (Burn), Water (Freeze), Electricity (Shock), Earth (Crush), Wind (Bluster), and Acid (Melt). IF your Character is Immune to an Element, they have the option of Absorbing that Element if they come in contact with it. They may absorb and heal 1d6 points per 10 ACP Spent once Immunity has been acquired. Total number of Immunities a Character may possess cannot exceed Three. Discuss your ideas with your GM about what kind of immunities are possible for your character.
+
+ANATOMY V: INCREASE OR DECREASE WEIGHT OF A VALID TARGET
+A Character can modify the weight of a Character, Object, or Structure that's equal or smaller in size to the user. The user may target another Character, Object or Structure larger than itself, but increases the ACP cost by 2 per Size Rank larger. A targets weight cannot be reduced to zero, but it can be reduced to weightless. A Character with modified weight, increases or decreases Speed Rank by 1 per 100 lbs., when the targets weight is increased above their standard wieght, or decreased below their standard weight.
+
+ANATOMY VI: INCREASE OR DECREASE THE WEIGHT OF A VALID TARGET BY 50%
+Modify the weight of a Character, Object, or Structure by 50% per 1 ACP spent with each subsequent application increasing or decreasing weight additively. As an example, if 4 ACP is spent, the increase or decrease is 200% or x3 to the weight of a character, object or structure. This percentage increase is applied after the Anatomy V keyword is applied to a character, object or structure, and not before. If an Object weighs 2 lbs, and its weight is increased by 8 lbs, the weight is now 10 lbs. and is increase is increased further by 200% (3.0x) setting the weight to 30 lbs.
+
+ANATOMY VII: INCREASE OR DECREASE THE LENGTH OF A VALID TARGET
+A Character can modify the length of a Character, Object, or Structure that's equal or smaller in size to the user. The user may target another Character, Object or Structure larger than itself, but increases the ACP cost by 2 per Size Rank larger. As the length becomes smaller than 1 ft., the cost remains but per inch instead. A targets length cannot be reduced to a length smaller than 1 inch.
+
+ANATOMY VIII: INCREASE OR DECREASE THE HEIGHT OF A VALID TARGET
+A Character can modify the height of a Character, Object, or Structure that's equal or smaller in size to the user. The user may target another Character, Object or Structure larger than itself, but increases the ACP cost by 2 per Size Rank larger. As the height becomes smaller than 1 ft., the cost remains but per inch instead. A targets height cannot be reduced to a height smaller than 1 inch.
+
+ANATOMY IX: INCREASE OR DECREASE THE WIDTH OF A VALID TARGET
+A Character can modify the width of a Character, Object, or Structure that's equal or smaller in size to the user. The user may target another Character, Object or Structure larger than itself, but increases the ACP cost by 2 per Size Rank larger. As the width becomes smaller than 1 ft., the cost remains but per inch instead. A targets width cannot be reduced to a width smaller than 1 inch.
+
+An intact structure can be made a valid target for modifying it's weight, height, width and length, under three condititions. The Ability has a range large enough to emcompass the structure as a whole, the size of the structure is shrunk to match the size of the user, or the user's size is increased to match the size of the structure. Destroyed structures with debris are an invalid target, but the debris are objects which are valid targets using Anatomy II keywords. Reducing the size of an object does not decrease its weight, nor does decreasing weight apply any changes to its size. If a 300 lb object has its size reduced down to tiny, it's still a 300 lb object.
+
+ALLY: The Ally Keyword allows a Character to Summon, Hire, or otherwise Employ the strength of others to aid them in any way that they need help. The Ally Keyword is a peculiar Keyword as some Characters may rely solely on their Familiars, Guardians, and or whatever the Ally Keyword is being used for. While others may use these Allies as a Support Function to further strengthen the Characters favored qualities. Allies are not required to be permanent addition to the Party and may function as an instantaneous Ability where the Ally shows up, takes 1 Action and disappears. A Character may only have 1 Ally plus 1 additional Primary Ally for every Two Character Levels (Two at Level 1) and Allies of Allies can only have 1 Ally per 3 Levels of the Ally that controls them.
+
+The Ally Keyword only has 1 variation (Unlike other Keywords) and the use of the Ally Keyword and Allies are separate Non-Player Characters under the control of the Character that's using it and thus solely under the Player's control. As Allies are independent NPCs to the Character, any resources the NPC uses is independent to the Character that controls it.
+
+The amount of ACP available to an Ally, is much like a Character, except the base amount is 5 points plus 2 per Ally Level as opposed to a Character which receives 5 plus 5 per level. Allies receive 3 Ability Slots plus 1 per Two Character Levels from the Character that controls them. As a base, all Allies receive 3d4 to their Stat points and permanent Allies receives a 1 Stat point for every 10 Points invested in the Ally Keyword and 1 Stat point per 15 points invested for Allies with a Duration. Each Ally has a separate investment which requires their own locked in Ability Slots. If Character A has two Allies which both have Double Ability Slots locked in, then Character A has used 4 Ability Slots with two Allies that are independent from each other with their own stats, equipment and Abilities.
+
+Much like a Character, an Ally has stats that they can increase based on the Characters investment into the Ability Slot(s) designated to each Ally independently. Ally stats cannot exceed 6 at 1st level, and the max increases by 1 per 3 levels. Like a Character, 4 Points in Power allows that Ally +4 Bonus to Melee and so on. However you decide to build your build your Allies is entirely up to you, discuss with your GM about how to convey the kind of Allies you're looking to create.
+
+Allies and their Abilities have access to all Keywords available to Players and their Characters. Allies may have access to their own Allies, but follow the same rules. So if an Ally (Under the Character's Control) invests 60 ACP, then that secondary Ally will have 6 points in which to distribute throughout their stats. However, an Ally of an Ally will only receive 1 ABS per 2 ABS the Primary Ally has. This process remains as Allies of Allies increases.
+
+The Level of an Ally is dependent on the Character that Controls them, Primary Allies are the same level of the Character controlling them (Minimum 1) but are considered half the level of the Character for controlling Allies, and Allies of Allies are half the level of the Ally that controls them (Minimum 1). So a level 10 Character would have level 10 Primary Allies, and Allies of Allies would be level 5 and then Level 2 and so on. Allies of all Tiers do not receive Level Advancement bonus rolls to stats or additional Ability Slots in the same way as Characters. At Max a level 10 Character could potentially have 6 Primary Allies, 12 Secondary Allies, and 12 Tertiary Allies and so on.
+
+
+The Death of an Ally is not the loss of an Ability Slot, depending on what kind of Allies they are, such as nameless Mercenaries, Elementals or Zombies. They are resummoned, recruited or recreated after a Long rest and will appear among your Allies once the rest has ended. If your Primary Allies are named and unique, discuss with your GM how to fairly compensate the loss to the Character. Which could mean an ABS Refund or perhaps means of resurrection to restore the Primary Ally. 
+
+Unique Primary Allies receive an additional 3d4 to their 
+Stat points, distributed as the Player chooses.
+
+ALTER: Altering the features of Abilities, Actions, Equipment and even features the Character possesses can be done through the Alter Keyword. This kind of Keyword adds versatility and improvisation to a Character that may otherwise be rigid and linear. As needed, a Character may alter the function of a weapon they are wielding from a Shotgun to a Hammer. Perhaps they have come across several enemies that are immune to Electricity and can change the damage they would normally deal from Electricity to Fire. Or the Breath of Frost that is normally a 30 ft. (16 Squares) Cone, could turn into an 80 ft. (16 Squares) line of freezing energy.
+
+ALTER I: ADD OR MODIFY THE SHAPE OF AN ACTION OR ABILITY EQUAL TO RANGE
+Alter I allows a Character to modify the Shape of an Action or Ability equal to the total Squares in it's Range or Area of a Effect. 6 ACP per Shape the Character would like available to the Action or Ability.
+
+ALTER II: ADD OR MODIFY AN EXISTING EFFECT VALUE TYPE
+Alter II allows a Character to change, add, and or modify the Effect Value Type (Damage, Heal, or Shield). 
+This Modification can be applied to Actions, Abilities, and Equipment.
+
+ALTER III: ADD OR MODIFY THE EFFECT VALUE SUB-TYPE
+Alter III allows a Character to change, add, and or modify the Effect Value Sub-Type (Physical or Energy). Physical; Slice, Impact, and Penetrate. Energy; Fire, Water, Wind, Earth, and Electricity.
+
+ALTER IV: ADD OR MODIFY AN EXISTING ASPECT ON AN ACTION OR ABILITY
+Alter IV allows a Character to change, add, and or modify the Aspect (Negative, Neutral, and or Positive) of the Action or Ability. Discuss with your GM if this is an applicable choice for your Setting.
+
+ALTER V: ADD OR MODIFY THE DEVICE TYPE FOR ITEMS AND EQUIPMENT
+Alter V allows a Character to change, add, and or modify the Device Type (Weapon, Armor, and or Shield) for an Action or Ability. Refer to Equipment Creation when choosing additional forms for your Devices. Cost 4 ACP per Alteration.
+
+ALTER VI: ADD OR MODIFY THE DEVICE SUB-TYPE FOR ITEMS AND EQUIPMENT
+Alter VI allows a Character to change, add, and or modify the Device Sub-Type. May include; Axe, Bow, Catalyst, Crossbow, Dagger, Firearm, Gauntlet, Hammer, Pole-Arm, Sling, Spear, Staff, Sword, Thrown, and Whip.
+
+BOOST: As a Character Advances in Levels, Boosts will become much more commonly used, as they become more available for use. Boosts, just as Empower or Accuracy is one of the three most important Keywords among all Keywords as it can increase or decrease every Stat available to the Character.
+
+However, Secondary Stats such as HP, AP, React, Damage Reduction, Energy Resistance, and Core Actions may all be increased or decreased by temporary or permanent boons. Boosts that increase Stamina, Focus, and or Mana cannot be increased with the same Resource it costs. So, a Character may increase another’s or their own Stamina by 2 for 1 Mana, but never 2 Mana for 1 Mana. This allows efficiency for Characters but not infinite resource.
+
+BOOST I: INCREASE A PRIMARY STAT BY 1 POINT (ALWAYS PASSIVE), COST 30 ACP PER POINT
+BOOST II: INCREASE HEALTH POINTS BY 1 POINT (ALWAYS PASSIVE), COST 4 ACP PER POINT
+BOOST III: APPLY 1 POINT OF SHIELD TO A RESOURCE (HP, AP, SP, FP, AND MP), COST 2 ACP PER POINT
+BOOST IV: INCREASE, DECREASE, RESTORE OR DESTROY AP BY 1 POINT, COST 10 ACP PER POINT
+BOOST V: INCREASE MAXIMUM STAMINA, FOCUS OR MANA BY 1 POINT, COST 10 ACP PER POINT
+BOOST VI: INCREASE PHYSICAL GUARD, MENTAL FORTITUDE, OR ENERGY RESISTANCE BY 1, COST 15 ACP PER POINT
+BOOST VII: INCREASE SPEED RANK BY 1 RANK, COST 8 ACP PER POINT
+BOOST VIII: INCREASE AVAILABLE SKILL RANK BY 1 RANK (ALWAYS PASSIVE), COST 20 ACP PER POINT
+BOOST IX: INCREASE ARMOR VERSUS SPECIFIC DAMAGE TYPE BY 1 POINT, COST 8 ACP PER POINT
+BOOST X: INCREASE STRIKE TARGET BY 1 POINT, COST 12 ACP PER POINT
+BOOST XI: INCREASE BONUS TO LEGERITY BY 1 POINT, COST 15 ACP PER POINT
+BOOST XII: INCREASE AVAILABLE STRENGTH BY 1 POINT, COST 5 ACP PER POINT
+
+Hinder is the exact opposite of Boost, as it decreases the stats based on Keywords chosen. These kinds of abilities are typically used towards other Targets and are intended to debilitate. However, as Increasing or Decreasing a Primary Sub-Stat can only be Passive, it is not possible to reduce the Primary Sub-Stats of others. But all other stats are viable targets for reduction, and it can be very effective when successful. Such as reducing the Action Points of a Target while they are already negative. Or reducing the Speed Rank of a Target that relies on Stride and fast movements.
+
+CHARGE: The Charge Keyword allows Characters to expend additional resources in order to increase the Potency of an Action or Ability. In doing so will add bonus die to the Total rolled Dice regardless if it’s for Damage, Healing or Shielding. This Keyword can give a Character with expendable resources, or perhaps a Character with reckless abandon to really push the limits of what they are capable of or what is expected of them. Any increase to the Dice of the Action or Ability adds Die of the same type.
+
+Any Character that is shocked (Receives Damage equal to 50% of total HP) while Charging automatically loses any further charges and must discharge the Ability immediately. If they failed the Resolve to resist the Shock, the target any eligible targets within Range at random regardless if they are an Ally, Enemy or Object.
+
+CHARGE I: INCREASE THE EFFECT VALUE BY ONE DIE PER CYCLE SPENT
+Increase the Dice of an Action or Ability by 1 Die per 20 ACP per Cycle up to 3 Cycles in Total. As an example, if a Character invested 60 ACP into Charge I and spent 2 Cycles Charging their Ability then they will add 6 Die to the total of rolled Dice. Charging by Cycle requires the Character Charges their ability for an entire Cycle, meaning they cannot discharge it until the start of the next turn, if they choose to.
+
+CHARGE II: INCREASE THE EFFECT VALUE BY ONE DIE PER 3 ACTIONS SPENT
+Increase the Dice of an Action or Ability by 1 Die per 20 ACP spent per 3 AP (Up to 6 AP Spent) spent in addition to the AP Required to use the Action or Ability. As an example, if a Character invested 40 ACP into Charge II and uses a Heavy Strike for 3 AP, and then spends an additional 6 AP then they will add 7 Die to the Heavy Strike at the cost of 9 Action Points. A steep cost for great power. However, any Character may not spend more than their Total Actions Points when using Charge II.
+
+CHARGE III: INCREASE THE EFFECT VALUE BY ONE DIE PER RESOURCE SPENT
+Increase the Dice of an Action or Ability by 1 Die per 20 ACP spent per Resource spent up to 3 Stamina, Focus or Mana. As an example, if a Character invested 40 ACP into Charge III and decided to spend an additional 3 Stamina on their Action or Ability then they will increase total Dice by 6 Die.
+
+CHARGE IV: INCREASE THE EFFECT VALUE BY ONE DIE THROUGH BACKLASH
+Increase the Dice of an Action or Ability by 1 Die per 10 ACP and receives damage to their HP in the form of Backlash equal half of the Bonus Dice added to the Action or Ability. As an example, if a Character invested 60 ACP into Charge IV to increase the total Dice by 6d10, then they will also take 6d10 Backlash Damage divided by half to their HP. So that Character can roll a potential 6 to 60 with 6d10 (Exploding dice not included) and divides the result in half. 
+(Note: Rolling maximum on a die does not add an additional die when rolling for Backlash. Additionally, Backlash is no affected by Armor, Shielding, Damage Reduction, Energy Resistance and is not reduced by Block, Dodge or Parry. But it can be healed once it has been taken and resolved.)
+
+COGNITION: The Cognition Keyword grants Characters that acquire it the ability to manipulate the process of knowledge, perception, intuition, and reasoning in the minds of themselves and others. This allows them to manipulate the perceived environments of their targets and create illusions and intangible illusions. Cognition Keywords cannot be used as Passive Ability Slots. All Cognition Actions costs a minimum of 2 Actions Points to perform and 1 Resource per Ability Slot (Up to Two).
+
+COGNITION I: MANIPULATE HOW THE TARGET CHARACTER SPENDS ACTION POINTS
+Decide what Action or Actions a targeted Character declares and performs based on the amount of Action Points you may manipulate. Each Action Point the Targeted Character must use costs 15 ACP each and allows for an Intelligence Resolve vs. Legerity for each Action to be performed. Cognition I cannot be a Passive Ability Slot, and costs 2 Action Points to perform. Cognition I does not have a base Range beyond 5 ft. and without any additional Range added via the Range Keyword starts within arm’s reach of the Character. Any Action that would put the Targeted Character in harms way immediately allows for an additional Intelligence Resolve to avoid it. If the Targeted Character once again fails their Resolve then the Action is carried out regardless of the consequences.
+
+As an example, if Character A has a Double Ability Slot invested in Cognition I at a total of 60 ACP with a base ranged of 75 ft., then they may target another Character within 75 ft. and may manipulate 4 Action Points if Character B fails their Intelligent Resolve. Character B fails their Resolve, and Character A determines they will use 3 of their Action Points to Sprint (Speed Rank +2) in the opposite direction of Character A. Character B does this and runs away, though the Cognition I effect ends as soon as the desired action occurs. If Character B succeeds in their resolve, then the effect is negated, and Character A has wasted 2 Action Points and 2 Resource.
+
+COGNITION II: CHANGE HOW A TARGET CHARACTER PERCEIVES YOU OR ANOTHER
+Manipulate the senses of another Target Character by deceiving their surrounding perception and creating illusions and hallucinations. You may temporarily change the appearance of yourself or other Characters according to the perception of the affected Target Character. Each Trait that you change about the Character (yourself or others) costs 10 ACP and if the Target fails their Intelligence Resolve. Cognition II does not have a base Range beyond 5 ft. and without any additional Range added via the Range Keyword starts within arm’s reach of the Character as well as a base duration of 1 Cycle (Additional Cycles will need to be acquired via the Duration Keyword). Traits available to be changed are as follows: Height, Weight, Age, Gender, Facial Features, Hair Color & Style, Skin Color, Smell, Physical Features, Clothing, Armor, Weapons, and Equipment.
+
+COGNITION III: MANIPULATE A TARGETS MIND TO CREATE ILLUSIONARY COPIESManipulate the senses of another Target Character by deceiving their surrounding perception and creating illusions and hallucinations. At the cost of 24 ACP You may temporarily create an illusionary copy of yourself or others at a base of 1 Cycle and as Cognition III does not have a base Range beyond 5 ft. and without any additional Range added via the Range Keyword starts adjacent to your location. Cognition III has a base duration of 1 Cycle (Additional Cycles will need to be acquired via the Duration Keyword). 
+
+Any Character unaware of the illusion must roll an Acuity Resolve vs. Legerity to become aware but this resolve does not provide the source of the illusion. Only that that it is an illusion. Illusions have no stats of any kind and are completely intangible. If another Character fails their resolve, they feel as if the illusion is both real and tangible. If the Illusion comes in contact with another Character who believes it is real, then they are immediately granted another Acuity Resolve vs. Legerity. Other Characters who are truly aware of the illusion, if trusted or influenced, may reveal the target to be an illusion and immediately grants an additional Acuity Resolve to those it communicated this to. Successful Acuity Resolves does not grant immunity to any additional illusions created thereafter.
+
+COGNITION IV: MANIPULATE A TARGET'S MIND TO CREATE ILLUSIONARY SURROUNDING
+Manipulate the senses of another Target Character by deceiving their surrounding perception and creating illusions and hallucinations. At the cost of 24 ACP you may temporarily alter the appearance and render yourself or other Characters invisible.  Other Characters may roll an Acuity Resolve to detect the presence of invisible Characters through means such as Sound, Smell, Taste, and Touch (including additional senses Characters may have acquired). Cognition IV does not have a base Range beyond 5 ft. and without any additional Range added via the Range Keyword starts within arm’s reach of the Character as well as a base duration of 1 Cycle (Additional Cycles will need to be acquired via the Duration Keyword). Additionally, Cognition IV may also be used to render senses such as Sound, Smell, Taste, and Touch “invisible”. Such as producing zero sound when you walk, hiding your scent, appearing tasteless, and seeming intangible (Costs 12 ACP).
+
+COGNITION V: MANIPULATE A TARGET'S MIND TO REVEAL THEIR ACTION CARDS
+Manipulate the senses of another Target Character by deceiving their surrounding perception and creating illusions and hallucinations. At the cost of 24 ACP, you pierce the mind of another revealing their intention. The targeted Character reveals one of their face-down cards from their set of Action Cards to the Character (Player controlled) which pierced their mind using Cognition V. The Targeted Character may counteract the effect by either an Intelligence Resolve vs. Legerity, or by using Ruse to keep their Action Cards hidden. Additionally, Cognition V may be used to reveal this intention to other Characters within Range. However, Cognition V does not have a base Range beyond 5 ft. and without any additional Range added via the Range Keyword starts within arm’s reach.
+
+When thinking in terms of a Character being in "harms way", it's best considered any instance that would lead to a loss of Resources such as Health Points, Action Point, Stamina, Focus, and Mana. The loss of resources does not need to be dealt in order to qualify an instances as harmful. The Resolves the Character is allowed is before any harm would come to them, if they fail the resolve then they fail to avoid the loss to their resources. This is not an subjective rule, if an Action they are told to do would result in a loss of resources, they are allowed a Resolve.
+
+When a Player can use a created Ability that revolves around Cognition V can be a little tricky and hard to understand. If you use it as an Active Action, then you are no longer left with an Active Action in your Cycle and left with only a Reaction. If Cognition V is used as a Triggering Ability, then a Player could use Cognition V as a Reaction and then respond with an Active Action such as Strike, Volley, Grab, Collide, Block, Dodge or Parry. 
